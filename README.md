@@ -1,9 +1,2 @@
-# Django Ecommerce
-
-This is an ecommerce website built with Django. The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item.
-
-[![alt text](https://github.com/justdjango/django-ecommerce/blob/master/thumbnail.png "Logo")](https://youtu.be/z4USlooVXG0)
-
-[Watch the tutorial series here](https://youtu.be/z4USlooVXG0)
-
-[Become a better Django developer](https://www.justdjango.com)
+Codeutsav-4.0
+An E-commerce website that cuts the middle man from the picture in the journey of raw goods directly from the farmer to the consumer. The website also contains additional features such as a network of storage providers for farmers to protect and store their produce at a reasonable rate wiht minimum transportation cost. The website also provides a section for waste management where a person can upload the type of waste and quantity of it which in turn are reported to the responsible authorities.
