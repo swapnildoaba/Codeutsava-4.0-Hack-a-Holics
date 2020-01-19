@@ -7,7 +7,7 @@ Instructions:
 2. Open the terminal at the same directory level as 'manage.py' file.
    Install all the dependencies using following command.
    pip install -r requirements.txt
-3. execute following command
+3. execute following command \n
    python manage.py makemigrations
    python manage.py migrate
 4. execute following command to run the program
