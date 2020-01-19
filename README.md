@@ -6,10 +6,15 @@ Instructions:
 1. Python is must
 2. Open the terminal at the same directory level as 'manage.py' file.
    Install all the dependencies using following command.
+   
    pip install -r requirements.txt
-3. execute following command \n
+3. execute following command
+
    python manage.py makemigrations
+   
    python manage.py migrate
 4. execute following command to run the program
+
    python manage.py runserver
+   
 6. copy the url shown to any browser
